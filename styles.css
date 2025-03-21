@@ -6,12 +6,14 @@ body{
   background-image: url("background.jpg");
   background-repeat: repeat-x;
   color:rgb(187, 13, 203)
+  background-attachment:fixed;
 
 }
 #header{
   
   text-align:center;
   padding:10px;
+  font-family:Arial, Verdana,Sans-serif;
 }
 #nav{
   background-color: #333;
